@@ -1,5 +1,5 @@
-# 4-huggingcace
-4기 허깅페이스
+# 4-huggingface
+4기 허깅페이스 세션입니다.
 
 ## 제출 방법
 
