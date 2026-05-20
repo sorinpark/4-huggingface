@@ -1,17 +1,17 @@
-# 3-huggingcace
-3기 4주차 허깅페이스
+# 4-huggingcace
+4기 허깅페이스
 
 ## 제출 방법
 
 1. 자신의 깃허브 아이디로 브랜치 만든 다음에 개인 폴더 만들어주세요.
 2. 작업 하시고 커밋 후 오리진으로 푸시해주시면 됩니다.
-3. main 으로 풀리퀘 날려주시면 됩니다. merge 는 하시면 안돼요! 풀리퀘 제목 : 3기_4주차_[이름]
+3. main 으로 풀리퀘 날려주시면 됩니다. merge 는 하시면 안돼요!
 
 ### 예시
 
 ```bash
-!git clone https:/[토큰값]@github.com/HateSlop/3-huggingface.git  # 클론
-!cd 3-huggingface # 프로젝트 루트로 이동
+!git clone https:/[토큰값]@github.com/HateSlop/4-huggingface.git  # 클론
+!cd 4-huggingface # 프로젝트 루트로 이동
 !git checkout -b '본인 브랜치명' # 브랜치 생성 (본인의 브랜치, 폴더 등 생성)
 !mkdir '본인 폴더명' # 개인 폴더 만들기
 !cd '본인 폴더명' # 개인 폴더로 이동
@@ -25,7 +25,7 @@
 
 ```bash
 .
-├── README.md    # 프로젝트 설명 리드미 (수정X)
+├── README.md    # 프로젝트 설명 리드미
 ├── huggingface_basics.ipynb
 ├── review_신라스테이 해운대.json
 ├── transformer.ipynb # 과제
